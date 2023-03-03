@@ -199,13 +199,6 @@ namespace Program
         public string Name { get; set; }
         public string Category { get; set; }
         public double Price { get; set; }
-
-       /* public Product(string name, string category, decimal price)
-        {
-            Name = name;
-            Category = category;
-            Price = price;
-        }*/
     }
 }
 
