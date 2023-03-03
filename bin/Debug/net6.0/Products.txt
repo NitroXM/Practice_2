@@ -1,0 +1,4 @@
+PS, Console, 400
+XBOX, Console, 500
+Volvo, Car, 30000
+Skoda, Car, 15000

@@ -1,0 +1,15 @@
+C:\Users\Nitro\source\repos\Practice_2\obj\Debug\net6.0\Practice_2.csproj.AssemblyReference.cache
+C:\Users\Nitro\source\repos\Practice_2\obj\Debug\net6.0\Practice_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nitro\source\repos\Practice_2\obj\Debug\net6.0\Practice_2.AssemblyInfoInputs.cache
+C:\Users\Nitro\source\repos\Practice_2\obj\Debug\net6.0\Practice_2.AssemblyInfo.cs
+C:\Users\Nitro\source\repos\Practice_2\obj\Debug\net6.0\Practice_2.csproj.CoreCompileInputs.cache
+C:\Users\Nitro\source\repos\Practice_2\bin\Debug\net6.0\Practice_2.exe
+C:\Users\Nitro\source\repos\Practice_2\bin\Debug\net6.0\Practice_2.deps.json
+C:\Users\Nitro\source\repos\Practice_2\bin\Debug\net6.0\Practice_2.runtimeconfig.json
+C:\Users\Nitro\source\repos\Practice_2\bin\Debug\net6.0\Practice_2.dll
+C:\Users\Nitro\source\repos\Practice_2\bin\Debug\net6.0\Practice_2.pdb
+C:\Users\Nitro\source\repos\Practice_2\obj\Debug\net6.0\Practice_2.dll
+C:\Users\Nitro\source\repos\Practice_2\obj\Debug\net6.0\refint\Practice_2.dll
+C:\Users\Nitro\source\repos\Practice_2\obj\Debug\net6.0\Practice_2.pdb
+C:\Users\Nitro\source\repos\Practice_2\obj\Debug\net6.0\Practice_2.genruntimeconfig.cache
+C:\Users\Nitro\source\repos\Practice_2\obj\Debug\net6.0\ref\Practice_2.dll

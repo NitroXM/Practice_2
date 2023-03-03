@@ -1,0 +1,3 @@
+John, 2, 5, 8
+Nathan, 5 , 1 , 1
+Javier, 9, 5, 4
